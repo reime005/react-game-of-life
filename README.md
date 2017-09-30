@@ -8,6 +8,8 @@ You may need the following tools in order to proceed:
 * git
 * docker-compose
 
+[![Build Status](https://travis-ci.org/reime005/react-game-of-life.svg?branch=master)](https://travis-ci.org/reime005/react-game-of-life)
+
 ## Usage via Docker
 
 Steps:
