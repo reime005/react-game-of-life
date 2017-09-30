@@ -1,0 +1,12 @@
+Dockerfile
+.dockerignore
+.gitignore
+README.md
+
+build
+node_modules
+
+.editorconfig
+.git
+*.log
+*.md
