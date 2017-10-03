@@ -34,7 +34,7 @@ class TimeSlider extends Component {
             max={5.0}
             value={value}
             step={0.25}
-            onChange={this.handleChange}
+            onChange={this.handleChange.bind(this)}
           />
           <div className="value">{value}</div>
         </div>

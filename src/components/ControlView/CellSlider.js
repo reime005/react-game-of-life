@@ -34,7 +34,7 @@ class CellSlider extends Component {
             max={30}
             value={value}
             step={1}
-            onChange={this.handleChange}
+            onChange={this.handleChange.bind(this)}
           />
           <div className="value">{value}</div>
         </div>
